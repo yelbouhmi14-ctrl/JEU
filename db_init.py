@@ -1,8 +1,4 @@
-"""
-db_init.py
-Lance ce script une seule fois pour peupler la base MongoDB.
-    python db_init.py
-"""
+
 
 from pymongo import MongoClient
 
